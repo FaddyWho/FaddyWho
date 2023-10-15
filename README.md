@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FaddyWho
+- 👀 I’m interested in Front end devlopement
+- 🌱 I’m currently learning javascript/React
+- 💞️ I’m looking to collaborate on full stack projects
